@@ -10,7 +10,7 @@
       apt install python2
       git clone https://github.com/Sabbir00173/sabbir-6
       ls
-      cd 2008-Fbcloner.PY
+      cd Fbcloner.PY
       ls
       python 2008-Fbcloner.PY
  🎁 bathut aney token & cookies (clone fb idz)🎁
