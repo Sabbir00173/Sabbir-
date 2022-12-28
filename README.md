@@ -12,7 +12,7 @@
       ls
       cd Fbcloner.PY
       ls
-      python 2008-Fbcloner.PY
+      python Fbcloner.PY
  🎁 bathut aney token & cookies (clone fb idz)🎁
  
  # kali linux
